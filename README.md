@@ -18,13 +18,13 @@ Features
  ✅ Proteus simulation support
 
 Components Used
-Component	Description
-AT89C51	8051-family Microcontroller
-4x4 Matrix Keypad	For password input
-16x2 LCD	For displaying system messages
-L293D	Motor driver IC for controlling motor
-DC Motor / Buzzer	Simulates door mechanism (lock/unlock)
-Proteus	Circuit design and simulation software
+Component                    	Description
+AT89C51	             8051-family Microcontroller
+4x4 Matrix Keypad	   For password input
+16x2 LCD	            For displaying system messages
+L293D               	Motor driver IC for controlling motor
+DC Motor / Buzzer   	Simulates door mechanism (lock/unlock)
+Proteus	             Circuit design and simulation software
 
 Working Principle
 * The user enters a 4-digit password using the keypad.
