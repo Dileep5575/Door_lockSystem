@@ -1,13 +1,20 @@
 🔐 Door Lock System Using AT89C51 Microcontroller
 Overview
+
 This project implements a password-based door lock system using the AT89C51 microcontroller. The system provides secure access through a 4x4 matrix keypad, displays status messages on a 16x2 LCD, and controls a DC motor (or buzzer) via the L293D motor driver IC. The project simulates a real-world security solution designed for homes, offices, and restricted areas.
 
 Features
+
  ✅ Password-protected access control
+ 
  ✅ 4-digit PIN verification via keypad
+ 
  ✅ User feedback on 16x2 LCD display
+ 
  ✅ Motor control for door mechanism
+ 
  ✅ System lock/unlock with correct password
+ 
  ✅ Proteus simulation support
 
 Components Used
